@@ -48,18 +48,14 @@ Predict delivery times for e-commerce orders using geospatial, temporal, and con
 - MLflow creates `mlruns/` to store experiments and models.
 ```
 
----
-
 ## File: architecture.png
 
 *(Add a simple architecture diagram showing flow: Data -> Cleaning -> Feature Eng -> Model Training (MLflow) -> Streamlit App. This file placeholder reminds you to include an image.)*
 
----
-
 ## File: model_performance_summary.csv (template)
-```
+
 model,MAE,RMSE,R2
 LinearRegression,,,
 RandomForest,,,
 GradientBoosting,,,
-```
+
